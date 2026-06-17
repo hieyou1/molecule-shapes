@@ -75,10 +75,10 @@
     "value": "Name"
   },
   "control.moleculeGeometry": {
-    "value": "Molecule Geometry"
+    "value": "Atom Geometry (AG)"
   },
   "control.electronGeometry": {
-    "value": "Electron Geometry"
+    "value": "Electron Group Geometry (EGG)"
   },
   "control.showLonePairs": {
     "value": "Show Lone Pairs"
